@@ -1,0 +1,12 @@
+<view class="box" 
+hover-class="hoverbox" 
+>
+<view class="item" hover-class="itemHover" hover-stop-propagation>111</view>
+
+</view>
+
+<view class="out">
+  <text user-select space="emsp">我的小程序</text>
+  <text>微信</text> 
+</view>
+
